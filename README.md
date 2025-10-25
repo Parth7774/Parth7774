@@ -5,7 +5,7 @@
 
 </div>
 
-<h3 align="center" style="color:#00d9ff;">🎓 B.Tech @ JUIT Shimla | Class of 2025 | Tech Enthusiast 🚀</h3>
+<h3 align="center" style="color:#00d9ff;">🎓 B.Tech Graduate @JUIT | Tech Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Problem+Solver+%7C+Coding+Alchemist+%E2%9C%A8;Building+Tech+for+Farmers+%F0%9F%8C%BE;Always+Ready+for+New+Challenges!+%F0%9F%92%AA" alt="Typing Animation">
